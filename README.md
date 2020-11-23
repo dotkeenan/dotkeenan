@@ -1,4 +1,6 @@
-### Hi there 👋
+![Banner](https://github.com/dotkeenan/dotkeenan/blob/main/images/linkedinbanner.png)
+
+### Hi, I'm Keenan 👋
 
 <!--
 **dotkeenan/dotkeenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
