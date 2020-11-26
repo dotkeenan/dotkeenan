@@ -3,6 +3,9 @@
 ### Hi, I'm Keenan 👋
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dotkeenan&hide=contribs,stars,issues&count_private=true&theme=cobalt&show_icons=true&custom_title=My%20Stats!)](https://github.com/anuraghazra/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dotkeenan&repo=wicked-sales-js&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dotkeenan&time-unwaster&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **dotkeenan/dotkeenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
