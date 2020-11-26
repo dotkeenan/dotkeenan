@@ -1,6 +1,7 @@
 ![Banner](https://github.com/dotkeenan/dotkeenan/blob/main/images/linkedinbanner.png)
 
 ### Hi, I'm Keenan 👋
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dotkeenan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dotkeenan/dotkeenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
