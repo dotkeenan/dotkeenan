@@ -5,7 +5,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotkeenan&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-
+- 🔭 I’m currently working on improving projects and delving more into React
+- ⚡ Fun facts: I like the Golden State Warriors, cooking new recipes, and sometimes creating art.
 
 
 <!--
