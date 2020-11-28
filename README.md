@@ -3,7 +3,7 @@
 ## Hi, I'm Keenan 👋
 - 🔭 I’m currently working on improving projects and delving more into React
 - ⚡ Fun facts: I like the Golden State Warriors, cooking new recipes, and sometimes creating art.
-- **tl;dr**: I have an addiction to tinkering.  I used to spend countless hours modifying my MySpace profile, optimizing PC game config files, and jailbreaking and hacking smartphones and devices.  I have a background in drawing, photography, video production and graphic design.  I enjoy japanese media/culture, technology, graffiti art, music, and clean and modern aesthetics.
+
 
 ## My Tool Belt
 <p align="left"> 
