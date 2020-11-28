@@ -1,9 +1,10 @@
 ![Banner](https://github.com/dotkeenan/dotkeenan/blob/main/images/linkedinbanner.png)
 
 ## Hi, I'm Keenan 👋
-
 - 🔭 I’m currently working on improving projects and delving more into React
 - ⚡ Fun facts: I like the Golden State Warriors, cooking new recipes, and sometimes creating art.
+
+## My Tool Belt
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
@@ -19,7 +20,6 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
 ## Stats
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dotkeenan&hide=contribs,stars,issues&count_private=true&theme=cobalt&show_icons=true&custom_title=My%20Stats!)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotkeenan&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
