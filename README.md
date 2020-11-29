@@ -1,16 +1,17 @@
 ![Banner](https://github.com/dotkeenan/dotkeenan/blob/main/images/linkedinbanner.png)
 
-## Hi, I'm Keenan 👋
-- 🔭 I’m currently working on improving projects and delving more into React
-- ⚡ Fun facts: I like the Golden State Warriors, cooking new recipes, and sometimes creating art.
-### ⏳ **My TL;DR**
+## 👋 Hi, I'm Keenan
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dotkeenan&hide=contribs,stars,issues&count_private=true&theme=cobalt&show_icons=true&custom_title=My%20Stats!)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on improving projects and delving more into React.js
+- ⚡ Fun facts: I like the 🏀Golden State Warriors, 🍳cooking new recipes, and sometimes 🖌️creating art.
+### ⏳ **My TL;DR** 
 
 - I've always had an obsession with tinkering while growing up, be it applying hacky inline CSS to my MySpace profile, overclocking my computer, or customizing the theme and layout on every device I've ever owned.
 - My interests in Japanese media/culture, graffiti art, music, clothing, and video games led me to getting my B.A. in Studio Art from the University of California Irvine.  After working briefly in graphic design, I realized I yearned for something where I could solve problems not only creatively, but logically as well.
 - I stumbled upon an Intro to HTML and CSS course and fell in love with the programming art form for its use of artistic and pragmatic creativity, and the rest is history.
 
 
-## My Tool Belt
+## 🔧 My Tool Belt
 <p align="left"> 
   <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
@@ -39,10 +40,11 @@
   <a href="https://www.meistertask.com/" target="_blank"> <img src="https://cdn1.meistertask.com/assets/meisterlabs/products/meistertask/icon-a180b0f392b059b046e36e08d9276da6d3fcdf864351ac1b4e296ffb48178bb2.png" alt="MeisterTask" width="40" height="40" /> </a>
 </p>
 
-## Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dotkeenan&hide=contribs,stars,issues&count_private=true&theme=cobalt&show_icons=true&custom_title=My%20Stats!)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotkeenan&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 How to reach me
+Email: [KeenanNg.Dev@gmail.com](mailto:KeenanNg.Dev@gmail.com)
+LinkedIn: [Keenan Ng](https://www.linkedin.com/in/keenan-ng/)
 
 <!--
 **dotkeenan/dotkeenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
