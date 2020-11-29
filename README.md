@@ -28,6 +28,7 @@
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
   
 <p align="left">
+  <a href="https://krita.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Calligra_Krita_icon.svg/1200px-Calligra_Krita_icon.svg.png" alt="Krita" width="40" height="40" /> </a>
   <a href="https://www.gimp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40" /> </a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="40" height="40" /> </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="40" height="40" /> </a>
