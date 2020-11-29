@@ -6,9 +6,7 @@
 ### ⏳ **My TL;DR**: 
 
 - I've always had an obsession with tinkering growing up, be it applying hacky inline CSS to my MySpace profile, overclocking my computer, or customizing the theme and layout on every device I've ever owned.
-<br>
 - My interests in Japanese media/culture, graffiti art, music, clothing, and video games led me to getting my B.A. in Studio Art from the University of California Irvine.  After working briefly in graphic design, I realized I yearned for something where I could solve problems not only creatively, but logically as well.
-<br>
 - I stumbled upon web development, caught the bug, and haven't looked back since!
 
 
