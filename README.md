@@ -43,9 +43,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotkeenan&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📫 How to reach me
-Email: [KeenanNg.Dev@gmail.com](mailto:KeenanNg.Dev@gmail.com)
-LinkedIn: [Keenan Ng](https://www.linkedin.com/in/keenan-ng/)
+## 📫 Connect
+- Email: [KeenanNg.Dev@gmail.com](mailto:KeenanNg.Dev@gmail.com)
+- LinkedIn: [Keenan Ng](https://www.linkedin.com/in/keenan-ng/)
 
 <!--
 **dotkeenan/dotkeenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
