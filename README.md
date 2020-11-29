@@ -3,7 +3,7 @@
 ## Hi, I'm Keenan 👋
 - 🔭 I’m currently working on improving projects and delving more into React
 - ⚡ Fun facts: I like the Golden State Warriors, cooking new recipes, and sometimes creating art.
-### ⏳ **My TL;DR**: 
+### ⏳ **My TL;DR**
 
 - I've always had an obsession with tinkering while growing up, be it applying hacky inline CSS to my MySpace profile, overclocking my computer, or customizing the theme and layout on every device I've ever owned.
 - My interests in Japanese media/culture, graffiti art, music, clothing, and video games led me to getting my B.A. in Studio Art from the University of California Irvine.  After working briefly in graphic design, I realized I yearned for something where I could solve problems not only creatively, but logically as well.
@@ -37,7 +37,6 @@
   <a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40" /> </a>
   <a href="https://www.meistertask.com/" target="_blank"> <img src="https://cdn1.meistertask.com/assets/meisterlabs/products/meistertask/icon-a180b0f392b059b046e36e08d9276da6d3fcdf864351ac1b4e296ffb48178bb2.png" alt="MeisterTask" width="40" height="40" /> </a>
 </p>
-
 
 ## Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dotkeenan&hide=contribs,stars,issues&count_private=true&theme=cobalt&show_icons=true&custom_title=My%20Stats!)](https://github.com/anuraghazra/github-readme-stats)
