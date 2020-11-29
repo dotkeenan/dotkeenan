@@ -6,12 +6,12 @@
 - ⚡ Fun facts: I like the 🏀Golden State Warriors, 🍳cooking new recipes, and sometimes 🖌️creating art.
 ### ⏳ **My TL;DR** 
 
-- I've always had an obsession with tinkering while growing up, be it applying hacky inline CSS to my MySpace profile, overclocking my computer, or customizing the theme and layout on every device I've ever owned.
-- My interests in Japanese media/culture, graffiti art, music, clothing, and video games led me to getting my B.A. in Studio Art from the University of California Irvine.  After working briefly in graphic design, I realized I yearned for something where I could solve problems not only creatively, but logically as well.
-- I stumbled upon an Intro to HTML and CSS course and fell in love with the programming art form for its use of artistic and pragmatic creativity, and the rest is history.
+- I've always had an obsession with 🔧tinkering while growing up, be it applying hacky inline CSS to my MySpace profile, overclocking my 💻computer, or customizing the theme and layout on every 📱device I've ever owned.
+- My interests in 👺Japanese media/culture, 🎨graffiti art, 🎧music, 👖clothing, and 👾video games led me to getting my B.A. in Studio Art from the University of California Irvine.  After working briefly in graphic design, I realized I yearned for something where I could solve problems not only creatively, but logically as well.
+- I stumbled upon an Intro to HTML and CSS course and fell in love with the programming art form for its use of 🎨artistic and 🧠pragmatic creativity, and the rest is history.
 
 
-## 🔧 My Tool Belt
+## 🧰 My Tool Belt
 <p align="left"> 
   <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
