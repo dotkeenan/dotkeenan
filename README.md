@@ -3,11 +3,13 @@
 ## Hi, I'm Keenan 👋
 - 🔭 I’m currently working on improving projects and delving more into React
 - ⚡ Fun facts: I like the Golden State Warriors, cooking new recipes, and sometimes creating art.
-- ⏳ **TL;DR**: I've always had an obsession with tinkering growing up, be it applying hacky CSS to my MySpace profile, overclocking my computer, or customizing the theme and layout on every device I've ever owned.  My interests in Japanese media/culture, graffiti art, music, clothing, and video games led me to getting my B.A. in Studio Art from the University of California Irvine.  After working briefly in graphic design, I realized I yearned for something where I could solve problems not only creatively, but also logically.  I stumbled upon web development, caught the bug, and haven't looked back since!
+- ⏳ **TL;DR**: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;I've always had an obsession with tinkering growing up, be it applying hacky CSS to my MySpace profile, overclocking my computer, or customizing the theme and layout on every device I've ever owned.  
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;My interests in Japanese media/culture, graffiti art, music, clothing, and video games led me to getting my B.A. in Studio Art from the University of California Irvine.  After working briefly in graphic design, I realized I yearned for something where I could solve problems not only creatively, but also logically.  
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I stumbled upon web development, caught the bug, and haven't looked back since!
 
-
-
-### hello
 
 ## My Tool Belt
 <p align="left"> 
