@@ -3,7 +3,7 @@
 ## 👋 Hi, I'm Keenan
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dotkeenan&hide=contribs,stars,issues&count_private=true&theme=cobalt&show_icons=true&custom_title=My%20Stats!)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on improving projects and delving more into React.js
-- ⚡ Fun facts: I like the 🏀Golden State Warriors, 🍳cooking new recipes, and sometimes 🖌️creating art.
+- ⚡ Fun facts: I like the Golden State Warriors🏀, cooking new recipes🍳, and sometimes creating art🖌️.
 ### ⏳ **My TL;DR** 
 
 - I've always had an obsession with tinkering while growing up, be it applying hacky inline CSS to my MySpace profile, overclocking my computer, or customizing the theme and layout on every device I've ever owned.
