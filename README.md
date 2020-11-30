@@ -6,10 +6,10 @@
 - ⚡ Fun facts: I like the 🏀Golden State Warriors, 🍳cooking new recipes, and sometimes 🖌️creating art.
 ### ⏳ **My TL;DR** 
 
-- I've always had an obsession with 🔧tinkering while growing up, be it applying hacky inline CSS to my MySpace profile, overclocking my 💻computer, or customizing the theme and layout on every 📱device I've ever owned.
-- My interests in 👺Japanese media/culture, 🎨graffiti art, 🎧music, 👖clothing, and 👾video games led me to getting my B.A. in Studio Art from the University of California Irvine.  
+- I've always had an obsession with tinkering while growing up, be it applying hacky inline CSS to my MySpace profile, overclocking my computer, or customizing the theme and layout on every device I've ever owned.
+- My interests in Japanese media/culture, graffiti art, music, clothing, and video games led me to getting my B.A. in Studio Art from the University of California Irvine.  
 - After working briefly in graphic design, I realized I yearned for something where I could solve problems not only creatively, but logically as well.
-- I stumbled upon an Intro to HTML and CSS course and fell in love with the programming art form for its use of 🎨artistic and 🧠pragmatic creativity, and the rest is history.
+- I stumbled upon an Intro to HTML and CSS course and fell in love with the programming art form for its use of artistic🎨 and pragmatic🧠 creativity, and the rest is history.
 
 
 ## 🧰 My Tool Box
