@@ -1,7 +1,7 @@
-![Banner](https://github.com/dotkeenan/dotkeenan/blob/main/images/linkedinbanner.png)
-
 ## 👋 Hi, I'm Keenan
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dotkeenan&hide=contribs,stars,issues&count_private=true&theme=cobalt&show_icons=true&custom_title=My%20Stats!)](https://github.com/anuraghazra/github-readme-stats)
+
+## ![Banner](https://github.com/dotkeenan/dotkeenan/blob/main/images/linkedinbanner.png)
+
 - 🔭 I’m currently working on improving projects and delving more into React.js
 - ⚡ Fun facts: I like the Golden State Warriors🏀, cooking new recipes🍳, and sometimes creating art🖌️.
 ### ⏳ **My TL;DR** 
@@ -20,7 +20,7 @@
   <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://www.npmjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" /> </a>
-  
+ 
   </p>
   <p align="left"> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -40,6 +40,8 @@
   <a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40" /> </a>
   <a href="https://www.meistertask.com/" target="_blank"> <img src="https://cdn1.meistertask.com/assets/meisterlabs/products/meistertask/icon-a180b0f392b059b046e36e08d9276da6d3fcdf864351ac1b4e296ffb48178bb2.png" alt="MeisterTask" width="40" height="40" /> </a>
 </p>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dotkeenan&hide=contribs,stars,issues&count_private=true&theme=cobalt&show_icons=true&custom_title=My%20Stats!)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotkeenan&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
