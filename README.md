@@ -40,7 +40,7 @@
   <a href="https://www.meistertask.com/" target="_blank"> <img src="https://cdn1.meistertask.com/assets/meisterlabs/products/meistertask/icon-a180b0f392b059b046e36e08d9276da6d3fcdf864351ac1b4e296ffb48178bb2.png" alt="MeisterTask" width="40" height="40" /> </a>
 </p>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dotkeenan&hide=contribs,stars,issues&count_private=true&theme=cobalt&show_icons=true&custom_title=My%20Stats!)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dotkeenan&hide=contribs,stars,issues&count_private=true&theme=buefy&show_icons=true&custom_title=My%20Stats!)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotkeenan&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 -->
