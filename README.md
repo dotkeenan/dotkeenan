@@ -1,5 +1,5 @@
-## 👋 Hi, I'm Keenan
-![Banner](https://github.com/dotkeenan/dotkeenan/blob/main/images/linkedinbanner.png)
+## 👋 Hi, I'm Keenan ![Banner](https://github.com/dotkeenan/dotkeenan/blob/main/images/linkedinbanner.png)
+
 
 
 
