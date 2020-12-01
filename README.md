@@ -10,7 +10,15 @@
 - After working briefly in graphic design, I realized I yearned for something where I could solve problems not only creatively, but logically as well.
 - I stumbled upon an Intro to HTML and CSS course and fell in love with the programming art form for its use of artistic🎨 and pragmatic🧠 creativity, and the rest is history.
 
+<!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dotkeenan&hide=contribs,stars,issues&count_private=true&theme=buefy&title_color=F895FF&text_color=000000&icon_color=7CDFB2&show_icons=true&custom_title=My%20Stats!)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dotkeenan&hide=contribs,stars,issues&count_private=true&theme=buefy&title_color=F895FF&text_color=000000&icon_color=7CDFB2&show_icons=true&custom_title=My%20Stats!" />
+  </a>
+</p>
 
 ## 🧰 My Tool Box
 <p align="left"> 
