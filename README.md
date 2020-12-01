@@ -1,7 +1,5 @@
-## 👋 Hi, I'm Keenan ![Banner](https://github.com/dotkeenan/dotkeenan/blob/main/images/linkedinbanner.png)
-
-
-
+## 👋 Hi, I'm Keenan
+![Banner](https://github.com/dotkeenan/dotkeenan/blob/main/images/linkedinbanner.png)
 
 - 🔭 I’m currently working on improving projects and delving more into React.js
 - ⚡ Fun facts: I like the Golden State Warriors🏀, cooking new recipes🍳, and sometimes creating art🖌️.
