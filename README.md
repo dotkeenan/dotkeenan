@@ -2,7 +2,7 @@
 ![Banner](https://github.com/dotkeenan/dotkeenan/blob/main/images/linkedinbanner.png)
 
 - 🔭 I’m currently working on improving projects and delving more into React.js
-- ⚡ Fun facts: I like the Golden State Warriors🏀, cooking new recipes🍳, and sometimes creating art🖌️.
+- ⚡ Fun facts: I like the Golden State Warriors🏀, cooking new recipes🍳, and creating art on occasion🖌️.
 ### ⏳ **My TL;DR** 
 
 - I've always had an obsession with tinkering while growing up, be it applying hacky inline CSS to my MySpace profile, overclocking my computer, or customizing the theme and layout on every device I've ever owned.
