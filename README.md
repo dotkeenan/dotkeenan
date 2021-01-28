@@ -10,7 +10,7 @@
 - After working briefly in graphic design, I realized I yearned for something where I could solve problems not only creatively, but logically as well.
 - I stumbled upon an Intro to HTML and CSS course and fell in love with the programming art form for its use of artistic🎨 and pragmatic🧠 creativity, and the rest is history.
 
-<!--
+<!-- stats currently unused
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dotkeenan&hide=contribs,stars,issues&count_private=true&theme=buefy&title_color=F895FF&text_color=000000&icon_color=7CDFB2&show_icons=true&custom_title=My%20Stats!)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
@@ -49,7 +49,7 @@
   <a href="https://www.meistertask.com/" target="_blank"> <img src="https://cdn1.meistertask.com/assets/meisterlabs/products/meistertask/icon-a180b0f392b059b046e36e08d9276da6d3fcdf864351ac1b4e296ffb48178bb2.png" alt="MeisterTask" width="40" height="40" /> </a>
 </p>
 
-<!--
+<!-- top language stats currently unused
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotkeenan&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ## 📫 Connect
